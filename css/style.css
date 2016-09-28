@@ -3,7 +3,7 @@ margin: 0;
 padding: 0;
 }
 .navbar{
-  background: url(../images/bg1.jpg) no-repeat center center fixed;
+  background: url(../images/container.png) no-repeat center center fixed;
   background-size: cover;
   height: 45px;
 }
@@ -41,10 +41,24 @@ h2{
 h3{
   text-align: center;
   color: #fff;
-  
+  letter-spacing: 1.2px;
+  font-size: 20px;
+
+}
+p{
+  text-align: center;
+  font-family: serif;
+  color: #fff;
+  line-height: 25px;
+}
+.details{
+  text-align: center;
+  font-family: serif;
+  color: #000;
+  line-height: 25px;
 }
 .details1{
-  height: 120px;
+  height: 200px;
   width: 700px;
   margin-left: 300px;
   text-align: center;
@@ -55,6 +69,7 @@ h3{
   background: url(../images/container.png) no-repeat center center fixed;
   background-size: cover;
   height: 800px;
+  margin-top: 20px;
 }
 .col1{
   height: 600px;
@@ -88,4 +103,8 @@ h3{
   height: 250px;
   width: 300px;
   border-radius: 6px;
+}
+.details2{
+  width: 700px;
+  margin-left: 25%;
 }
