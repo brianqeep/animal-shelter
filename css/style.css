@@ -1,0 +1,91 @@
+body{
+margin: 0;
+padding: 0;
+}
+.navbar{
+  background: url(../images/bg1.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 45px;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+li{
+  display: inline;
+  float: left;
+}
+li a{
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+  color: #fff;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.header{
+  background: url(../images/bg2.jpg) no-repeat center;
+  background-size: cover;
+  height: 450px;
+}
+h1{
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 170px;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  color: #fff;
+  
+}
+.details1{
+  height: 120px;
+  width: 700px;
+  margin-left: 300px;
+  text-align: center;
+  letter-spacing: 1.2px;
+  line-height: 25px;
+}
+.profilecontainer{
+  background: url(../images/container.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 800px;
+}
+.col1{
+  height: 600px;
+  width: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: absolute;
+}
+.col2{
+  height: 600px;
+  width: 300px;
+  margin-left: 330px;
+  margin-top: 20px;
+  position: absolute;
+}
+.col3{
+  height: 600px;
+  width: 300px;
+  margin-left: 640px;
+  margin-top: 20px;
+  position: absolute;
+}
+.col4{
+  height: 600px;
+  width: 300px;
+  margin-left: 950px;
+  margin-top: 20px;
+  position: absolute;
+}
+.inpic{
+  height: 250px;
+  width: 300px;
+  border-radius: 6px;
+}
